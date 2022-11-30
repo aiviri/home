@@ -1,2 +1,3 @@
 # home
-a short interactive horror experience running through the browser
+a short interactive web-based horror story
+
